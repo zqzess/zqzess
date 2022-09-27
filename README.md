@@ -1,6 +1,10 @@
 ### Hi there 👋
 <p align="left"><a href="https://www.whitemoon.top">➡️ My blog</a></p>
 
+[-> vue实现语言识别与录音](https://www.whitemoon.top/2022/08/21/vue-shi-xian-yu-yan-shi-bie-yu-lu-yin/)
+
+[-> 自建代理转换站点](https://www.whitemoon.top/2022/09/18/zi-jian-de-dai-li-jie-dian-zhuan-huan-zhan-dian/)
+
 <!--
 **zqzess/zqzess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
